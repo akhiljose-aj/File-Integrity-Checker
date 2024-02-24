@@ -1,0 +1,9 @@
+File Path: C:/Users/admin/Desktop/aj/file_int_checker/file_int2.ico
+Stored Hash: 841479279573b251c02e8160a71b1d18d7c128e90fdb79326eb584c988bfde30
+----------------------------
+File Path: C:/Users/admin/Desktop/hello.txt
+Stored Hash: 544fff11ce50845a576781cc6d71c9a9b5afb000990c3c2164b0264df31ad0f7
+----------------------------
+File Path: C:/Users/admin/Desktop/hello.txt
+Stored Hash: 0de1292199a07333c3b945388fb4bb44f822cecf8cbaca6bfc2efcb7c4a42799
+----------------------------
